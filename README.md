@@ -5,4 +5,4 @@
 Lab do Bruno Carneiro pela Digital Innovation One
 
 Execute o aplicativo, acessando o link:
-Open https://nifty-lamarr-0fc9e3.netlify.app/ para visualizá-lo.
+Open https://dio-covid19pwa.netlify.app/ para visualizá-lo.
