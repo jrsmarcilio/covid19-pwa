@@ -26,3 +26,6 @@ export const Item = styled.div`
   justify-content: space-between;
   min-width: 150px;
 `;
+export const Display = styled.div`
+  display: grid;
+`;
